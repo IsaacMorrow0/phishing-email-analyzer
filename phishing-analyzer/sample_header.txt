@@ -1,0 +1,6 @@
+Received: from unknown (HELO fakehost.com) ([203.0.113.77])
+From: "PayPal Security" <alert@paypal-secure.com>
+Return-Path: <hacker@russian-hack.ru>
+Authentication-Results: spf=fail; dkim=fail; dmarc=fail
+Subject: Urgent Account Notice!
+Date: Mon, 5 Aug 2025 10:21:00 -0500
